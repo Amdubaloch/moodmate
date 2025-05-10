@@ -8,7 +8,7 @@ How to Run..?<br>
 clone repo from GitHub
 
 and open the terminal/Cmd <br>
-![Screenshot](D:\doc data\moodmate\images\cmd.png)
+![Screenshot](/images/cmd.png)
 
 Then run this command:
 

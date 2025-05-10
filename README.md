@@ -12,4 +12,8 @@ and open the terminal/Cmd <br>
 
 Then run this command:
 
-![alt text](uv run mood)
+uv add run mood
+
+![Screenshot](/images/run.png)
+
+![OUTPUT](/images/run.png)

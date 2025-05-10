@@ -17,3 +17,4 @@ uv run mood
 ![Screenshot](/images/run.png)
 
 ![OUTPUT](/images/output.png)
+![OUTPUT](/images/image.png)
